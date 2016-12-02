@@ -3,3 +3,11 @@ D:\repos\VS2013\Projects\WcfService1\WcfService1\bin\WcfService1.dll
 D:\repos\VS2013\Projects\WcfService1\WcfService1\bin\WcfService1.pdb
 D:\repos\VS2013\Projects\WcfService1\WcfService1\obj\Release\WcfService1.dll
 D:\repos\VS2013\Projects\WcfService1\WcfService1\obj\Release\WcfService1.pdb
+D:\repos\VS2013\Projects\Service\Service\bin\Service.dll.config
+D:\repos\VS2013\Projects\Service\Service\bin\Service.dll
+D:\repos\VS2013\Projects\Service\Service\bin\Service.pdb
+D:\repos\VS2013\Projects\Service\Service\bin\NReco.VideoConverter.dll
+D:\repos\VS2013\Projects\Service\Service\bin\NReco.VideoConverter.xml
+D:\repos\VS2013\Projects\Service\Service\obj\Release\Service.csprojResolveAssemblyReference.cache
+D:\repos\VS2013\Projects\Service\Service\obj\Release\Service.dll
+D:\repos\VS2013\Projects\Service\Service\obj\Release\Service.pdb

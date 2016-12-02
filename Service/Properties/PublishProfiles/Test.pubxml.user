@@ -6,17 +6,29 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>D:\publish\WCFCalculator</_PublishTargetUrl>
+    <_PublishTargetUrl>D:\publish\Service</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
+    <File Include="bin/NReco.VideoConverter.dll">
+      <publishTime>12/01/2016 15:34:07</publishTime>
+    </File>
+    <File Include="bin/Service.dll">
+      <publishTime>12/02/2016 17:24:06</publishTime>
+    </File>
     <File Include="bin/WcfService1.dll">
       <publishTime>12/01/2016 14:57:05</publishTime>
     </File>
     <File Include="Calculator.svc">
       <publishTime>12/01/2016 14:36:33</publishTime>
     </File>
+    <File Include="packages.config">
+      <publishTime>12/01/2016 15:34:09</publishTime>
+    </File>
+    <File Include="Transfer.svc">
+      <publishTime>12/01/2016 16:47:21</publishTime>
+    </File>
     <File Include="Web.config">
-      <publishTime>12/01/2016 14:57:05</publishTime>
+      <publishTime>12/02/2016 17:10:13</publishTime>
     </File>
   </ItemGroup>
 </Project>
